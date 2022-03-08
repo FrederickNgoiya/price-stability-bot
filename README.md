@@ -1,0 +1,1 @@
+Price Stability bot Demo for Stable coins
